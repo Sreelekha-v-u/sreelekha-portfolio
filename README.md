@@ -67,9 +67,9 @@ The domain is managed through GoDaddy DNS and connected to Vercel.
 | Record Type | Host | Value |
 |---|---|---|
 | A | @ | 216.198.79.1 |
-| CNAME | www | [Enter Vercel-provided target] |
+| CNAME | www | [sreelekha.in] |
 
-*Note: Verify these values against the DNS configuration displayed in your Vercel dashboard before submission.*
+*Note: Verify these values against the DNS configuration displayed in  Vercel dashboard .*
 
 ### 9. DNS Verification Commands
 
@@ -136,5 +136,3 @@ The project successfully demonstrates the complete process of making a website p
 
 ---
 
-**Project:** DevOps & Networking Machine Test – 03  
-**Student:** Sreelekha
